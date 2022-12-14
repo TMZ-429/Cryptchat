@@ -21,7 +21,10 @@ White
 If you ever want to update the configuration, just update the config.json file and use `sudo make update`
 
 INSTALLATION:
-`sudo make`
+```
+sudo make
+sudo make update
+```
 
 USAGE:
 Use the following terminal command:
