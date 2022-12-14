@@ -1,0 +1,19 @@
+{
+    "commandPrefix": "/",
+    
+    "logging": false,
+
+    "logs": "crypt-logs.txt",
+
+    "banList": "crypt-bans.txt",
+    
+    "port": 49872,
+
+    "militaryTime": true,
+
+    "broadcastLeaves": true,
+
+    "broadcastJoins": true,
+    
+    "maxConnections": 100
+}

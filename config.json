@@ -1,0 +1,18 @@
+{
+    "username": "Takeda",
+    
+    "textColour": "magenta",
+
+    "backgroundTextColour": "",
+
+    "logMessages": false,
+
+    "logs": "placeholder directory",
+
+    "militaryTime": false,
+    
+    "notifications": {
+        "allowNotifications": true,
+        "notificationSounds": true
+    }
+}
