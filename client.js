@@ -97,7 +97,7 @@ function connect() {
         fs.appendFileSync(config.logs, `${notification.title} : ${notification.message}`);
       }
       //Special exception for receiving /exit to exit the program
-      if (msg && msg.raw.content === "/exit" && msg.raw.author.trim() === config.username) {
+      if (msg && msg.raw.content === "/exit" && msg.raw.author && msg.raw.author.trim() === config.username) {
         client.write(JSON.stringify({
             'raw': {'content': '/exit'}
           })
