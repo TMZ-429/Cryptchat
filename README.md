@@ -22,6 +22,11 @@ If you ever want to update the configuration, just update the config.json file a
 
 INSTALLATION:
 ```
+sudo mkdir /usr/local/bin/cryptchat.d
+chmod +x ./crypt-dependencies/cryptchat-options.js
+chmod +x messager.js
+chmod +x client.js
+chmod +x gui.py
 sudo make
 sudo make update
 ```
