@@ -15,7 +15,7 @@ const optionsA = [
     "notificationSounds"
 ];
 
-console.log("Leave values blank to keep them the same.\nClose terminal to not save changes.\n")
+console.log("Leave values blank to keep them the same.\nClose terminal to not save changes.\nCryptchat must be ran as root for this program to work*\n");
 
 var changer = config;
 
