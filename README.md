@@ -1,4 +1,4 @@
-Cryptchat, By SD
+Cryptchat, By TMZ
 
 CryptChat is an optionally end-to-end encrypted chatting app meant for secure conversations between multiple parties.
 Features:
